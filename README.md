@@ -1,4 +1,4 @@
-# CURSOR25X - Interactive Task Loop MCP Server
+# Cursor Continue Prompt - Interactive Task Loop MCP Server
 
 
 ## 📱 Social Media
@@ -23,7 +23,7 @@
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/tuncer-byte/cursor25x.git
+git clone https://github.com/oguzdelioglu/cursor_continue_prompt.git
 cd cursor25x
 ```
 
